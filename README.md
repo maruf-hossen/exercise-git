@@ -1,5 +1,6 @@
 # exercise-git
 Repo for git and GitHub practice 
+
 #1 Created the Repo
 
 #2 Cloned the repo
